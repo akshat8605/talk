@@ -1,0 +1,17 @@
+.header{
+	height: 70px;
+	top: 0%;
+	background: grey;
+	position: sticky;
+}
+button{
+	float: right;
+}
+img{
+	height: 400px;
+	width: 100%;
+
+}
+.slide{
+top: 0%;
+}
